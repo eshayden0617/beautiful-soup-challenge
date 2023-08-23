@@ -58,3 +58,7 @@ terrestrial_date: the date on Earth
 
 6. Export the DataFrame to a CSV file.
 
+# Resources Used
+To extract data from a table, I used: https://stackoverflow.com/questions/2010481/how-do-you-get-all-the-rows-from-a-particular-table-using-beautifulsoup
+https://stackoverflow.com/questions/38838460/beautifulsoup-difference-between-findall-and-findchildren
+https://saturncloud.io/blog/how-to-load-a-scraped-table-via-beautiful-soup-into-a-pandas-dataframe/
