@@ -23,8 +23,6 @@ Extract the titles and preview text of the news articles that you scraped. Store
 - Store all the dictionaries in a Python list.
 - Print the list in your notebook.
 
-Optionally, store the scraped data in a file (to ease sharing the data with others). To do so, export the scraped data to a JSON file. (Note: there will be no extra points for completing this.)
-
 # Part 2: Scrape and Analyze Mars Weather Data
 Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.ipynb. You will work in this code as you follow the steps below to scrape and analyze Mars weather data.
 
